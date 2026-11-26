@@ -1,8 +1,8 @@
 [
-  { "id": "toy-assembly", "name": "Toy Assembly", "status": "onTrack", "elvesOnShift": 48, "toysPerHour": 1250, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
-  { "id": "reindeer-stables", "name": "Reindeer Stables", "status": "onTrack", "elvesOnShift": 12, "toysPerHour": 0, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
-  { "id": "gingerbread-bakery", "name": "Gingerbread Bakery", "status": "onTrack", "elvesOnShift": 20, "toysPerHour": 600, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
-  { "id": "wrapping-hall", "name": "Wrapping Hall", "status": "onTrack", "elvesOnShift": 36, "toysPerHour": 2100, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
-  { "id": "sleigh-workshop", "name": "Sleigh Workshop", "status": "onTrack", "elvesOnShift": 15, "toysPerHour": 0, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
-  { "id": "letter-sorting", "name": "Letter Sorting", "status": "onTrack", "elvesOnShift": 30, "toysPerHour": 5400, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" }
+  { "id": "toy-assembly", "name": "Leksaksverkstan", "status": "onTrack", "elvesOnShift": 48, "toysPerHour": 1250, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
+  { "id": "reindeer-stables", "name": "Renstallet", "status": "onTrack", "elvesOnShift": 12, "toysPerHour": 0, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
+  { "id": "gingerbread-bakery", "name": "Pepparkaksbageriet", "status": "onTrack", "elvesOnShift": 20, "toysPerHour": 600, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
+  { "id": "wrapping-hall", "name": "Presentinslagningen", "status": "onTrack", "elvesOnShift": 36, "toysPerHour": 2100, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
+  { "id": "sleigh-workshop", "name": "Slädverkstaden", "status": "onTrack", "elvesOnShift": 15, "toysPerHour": 0, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" },
+  { "id": "letter-sorting", "name": "Brevsorteringen", "status": "onTrack", "elvesOnShift": 30, "toysPerHour": 5400, "issue": null, "updatedAt": "2026-12-01T08:00:00Z" }
 ]

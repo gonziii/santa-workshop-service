@@ -1,7 +1,7 @@
 [
   {
     "id": "toy-assembly",
-    "name": "Toy Assembly",
+    "name": "Leksaksverkstan",
     "status": "onTrack",
     "elvesOnShift": 48,
     "toysPerHour": 1250,
@@ -10,7 +10,7 @@
   },
   {
     "id": "reindeer-stables",
-    "name": "Reindeer Stables",
+    "name": "Renstallet",
     "status": "onTrack",
     "elvesOnShift": 12,
     "toysPerHour": 0,
@@ -19,7 +19,7 @@
   },
   {
     "id": "gingerbread-bakery",
-    "name": "Gingerbread Bakery",
+    "name": "Pepparkaksbageriet",
     "status": "onTrack",
     "elvesOnShift": 20,
     "toysPerHour": 600,
@@ -28,7 +28,7 @@
   },
   {
     "id": "wrapping-hall",
-    "name": "Wrapping Hall",
+    "name": "Presentinslagningen",
     "status": "onTrack",
     "elvesOnShift": 36,
     "toysPerHour": 2100,
@@ -37,7 +37,7 @@
   },
   {
     "id": "sleigh-workshop",
-    "name": "Sleigh Workshop",
+    "name": "Slädverkstaden",
     "status": "onTrack",
     "elvesOnShift": 15,
     "toysPerHour": 0,
@@ -46,7 +46,7 @@
   },
   {
     "id": "letter-sorting",
-    "name": "Letter Sorting",
+    "name": "Brevsorteringen",
     "status": "onTrack",
     "elvesOnShift": 30,
     "toysPerHour": 5400,
@@ -55,20 +55,20 @@
   },
   {
     "id": "candy-cane-mine",
-    "name": "Candy Cane Mine",
+    "name": "Polkagrisgruvan",
     "status": "critical",
     "elvesOnShift": 9,
     "toysPerHour": 0,
-    "issue": "Not a real workshop.",
+    "issue": "Ingen riktig verkstad.",
     "updatedAt": "2026-12-01T10:00:00Z"
   },
   {
     "id": "toy-assembly",
-    "name": "Toy Assembly",
+    "name": "Leksaksverkstan",
     "status": "delayed",
     "elvesOnShift": 48,
     "toysPerHour": 1250,
-    "issue": "Duplicate entry for Toy Assembly.",
+    "issue": "Dubblett för Leksaksverkstan.",
     "updatedAt": "2026-12-01T08:00:00Z"
   }
 ]
